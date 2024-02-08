@@ -21,6 +21,7 @@ li{
      width: 300px;
     height: 300px;
     display: block;
+    border-radius: 20px;
 }
 .under{
     display: none;
@@ -36,9 +37,9 @@ li{
     margin-right:10px;
 }
  .tabs__content{
-    background-color: #6A5ACD;
-/*     margin-left: 1000px;
-    margin-right: 1000px; */
+    background-color: black;
+   margin-left: 50px;
+/*     margin-right: 1000px; */
     border-radius: 20px;
 } 
 .tabs__nav-btn{
