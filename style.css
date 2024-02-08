@@ -1,0 +1,113 @@
+html{
+    background-color:#778899
+}
+span{
+    font-weight: bold;
+   
+     
+}
+header{
+    text-align: center;
+    background-color: black;
+    margin-left: 1000px;
+    margin-right: 1000px;
+    border-radius: 20px;
+    color: white;
+}
+li{
+    padding-top: 5px;
+}
+.under.active{
+    margin-left: 1125px;
+     width: 300px;
+    height: 300px;
+    display: block;
+}
+.under{
+    display: none;
+}
+.title{
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+}
+.tabs__nav{
+    text-align: center;
+    
+}
+.tabs__content{
+    text-align: center;
+    background-color: #6A5ACD;
+    margin-left: 1000px;
+    margin-right: 1000px;
+    border-radius: 20px;
+}
+.tabs__nav-btn{
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+}
+
+.tabs__nav-btn.active{
+    background-color:#6A5ACD;
+    border-color: #6A5ACD;
+    color: white;
+    font-weight: bold;
+}
+.tabs__item{
+    display: none;
+}
+.tabs__item.active{
+    display: block;
+}
+
+.section__button{
+      vertical-align: middle;
+       height: 160px;
+    width: 160px;
+    border-radius: 20px;
+    font-size: 15px ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+
+      
+      
+}
+.modal{
+    position: fixed;
+    inset: 0;
+    background-color: rgb(0, 0, 0,0.5);
+    display: flex;
+    cursor: pointer;
+    padding: 30px;
+    overflow-y: auto ;
+    overflow-x: auto ;
+    display: none;
+}
+.modal__main{
+    position: relative;
+    max-width: 600px;
+    background-color:azure;
+    margin: auto;
+    color: black;
+    border-radius: 16px;
+    padding: 30px;
+    cursor: default;
+
+}
+.modal__title{
+    margin-bottom: 30px;
+}
+
+.modal__close{
+    background-image: url(images/cross-black-circular-button_icon-icons.com_73054.png);
+    height: 35px;
+    width: 35px;
+    border-color: white;
+    border-radius: 20px;
+    background-color: transparent;
+    cursor: pointer;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
