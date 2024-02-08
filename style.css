@@ -38,11 +38,11 @@ li{
 }
  .tabs__content{
     background-color: black;
-   margin-left: 50px;
 /*     margin-right: 1000px; */
     border-radius: 20px;
 } 
 .tabs__nav-btn{
+    margin-left: 50px;
     height: 40px;
     width: 100px;
     border-radius: 10px;
@@ -62,8 +62,9 @@ li{
 }
 
 .section__button{
-      vertical-align: middle;
-       height: 160px;
+    margin-left: 50px;
+    vertical-align: middle;
+     height: 160px;
     width: 160px;
     border-radius: 20px;
     font-size: 15px ;
