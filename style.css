@@ -33,6 +33,7 @@ li{
 }
 .tabs__nav{
     text-align: center;
+    display:inline-block
     
 }
 .tabs__content{
