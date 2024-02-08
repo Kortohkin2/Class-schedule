@@ -17,7 +17,7 @@ li{
     padding-top: 5px;
 }
 .under.active{
-    margin-left: 1125px;
+/*     margin-left: 1125px; */
      width: 300px;
     height: 300px;
     display: block;
