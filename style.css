@@ -35,12 +35,12 @@ li{
     margin-left:10px;
     margin-right:10px;
 }
-/* .tabs__content{
+ .tabs__content{
     background-color: #6A5ACD;
-    margin-left: 1000px;
-    margin-right: 1000px;
+/*     margin-left: 1000px;
+    margin-right: 1000px; */
     border-radius: 20px;
-} */
+} 
 .tabs__nav-btn{
     height: 40px;
     width: 100px;
