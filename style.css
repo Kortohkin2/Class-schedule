@@ -7,7 +7,6 @@ span{
      
 }
 header{
-    text-align: center;
     background-color: black;
     margin-left: 1000px;
     margin-right: 1000px;
@@ -32,12 +31,10 @@ li{
     font-size: 40px;
 }
 .tabs__nav{
-    text-align: center;
     display:inline-block
     
 }
 .tabs__content{
-    text-align: center;
     background-color: #6A5ACD;
     margin-left: 1000px;
     margin-right: 1000px;
